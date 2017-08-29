@@ -1,0 +1,12 @@
+engines:
+  structure:
+    enabled: true
+    channel: java
+ratings:
+  paths:
+    - "**.java"
+exclude_paths:
+  - "**.js"
+  - "**.jsx"
+  - "**.rb"
+  - "**.py"
